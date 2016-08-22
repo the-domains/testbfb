@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TestBFB]]></title>
         <description><![CDATA[TestBFB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testbfb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 07:09:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Aug 2016 13:54:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testbfb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[utheoansueao]]></title>
-            <description><![CDATA[<article><h1>utheoansueao</h1><p>uhtaonsuthoeansuheoansutehoasu  utheoansuthaoens uehtoanuseoathuesoa uehoatnuseoathune</p></article>]]></description>
-            <link>undefinedutheoansueao/index.html</link>
+            <description><![CDATA[<p>uhtaonsuthoeansuheoansutehoasu utheoansuthaoens uehtoanuseoathuesoa uehoatnuseoathune</p>]]></description>
+            <link>https://thegrid.ai/testbfb/utheoansueao/index.html</link>
             <guid isPermaLink="false">77ebdb48-bbfb-48a3-b6a4-4fb5121f305c</guid>
-            <pubDate>Wed, 23 Mar 2016 07:08:52 GMT</pubDate>
+            <pubDate>Mon, 22 Aug 2016 13:54:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
